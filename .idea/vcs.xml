@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyQt_coffee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyQt_Карты_API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEB_YaLec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEB_YaLec/WEB1_json_os" vcs="Git" />
+  </component>
+</project>
