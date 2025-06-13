@@ -1,5 +1,5 @@
 import requests
-from data.env import GECODE_API
+from data.config import GECODE_API
 
 
 # Найти объект по координатам.

@@ -5,7 +5,7 @@ import requests
 from PyQt6.QtGui import QPixmap
 from PyQt6.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QLineEdit, QTextBrowser, QCheckBox
 from PyQt6.QtCore import Qt
-from data.env import STATIC_API, GECODE_API
+from data.config import STATIC_API, GECODE_API
 
 SCREEN_SIZE = [600, 450]
 

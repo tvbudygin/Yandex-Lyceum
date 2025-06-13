@@ -1,5 +1,5 @@
 import requests
-from data.env import SEARCH_API
+from data.config import SEARCH_API
 
 
 def find_business(ll):
